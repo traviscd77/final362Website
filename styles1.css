@@ -1,0 +1,12 @@
+<style>
+li {
+   color: blue;
+}
+.footnote {
+  Text-decoration: underline;
+}
+#footnote-1 {
+  color: orange;
+  font-style: italic;
+}
+</style>
